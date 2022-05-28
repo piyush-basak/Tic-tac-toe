@@ -8,9 +8,9 @@ This was an University project, So I had to use Java **Applet** according to the
 Please ⭐️ this repo and share it with others.
 
 ### Screenshots
-Scientific / Dark |  Standard / Colored
+TicTacToe Window | Window on Winning.
 :------------------:|:-------------------
-![Calculator - screenshot](screenshots/dark.PNG) | ![Calculator - screenshot](screenshots/colored.PNG)
+![Calculator - screenshot](screenshots/Tic-tac-toe-screen.png) | ![Calculator - screenshot](screenshots/colored.PNG)
 
 ### Requirements 🔧
 * Java version SE 8 or below.
@@ -21,7 +21,7 @@ Scientific / Dark |  Standard / Colored
 2. Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
 
        git clone 
-3. Imported it in Intellij IDEA or any other Java IDE.
+3. Imported it in Eclipse IDE or any other Java IDE.
 4. Run the Game :D
 
 ### Contributing 💡
