@@ -10,7 +10,7 @@ Please ⭐️ this repo and share it with others.
 ### Screenshots
 TicTacToe Window | TicTacToe with X and O's.
 :------------------:|:-------------------
-![Tic-tac-toe - screenshot](screenshots/Tic-tac-toe-screen.png) | ![Tic-tac-toe - screenshot](screenshots/XandO.PNG)
+![Tic-tac-toe - screenshot](screenshots/Tic-tac-toe-screen.png) | ![Tic-tac-toe - screenshot](screenshots/XandO.png)
 
 ### Requirements 🔧
 * Java version SE 8 or below.
