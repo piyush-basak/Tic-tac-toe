@@ -20,7 +20,7 @@ TicTacToe Window | TicTacToe with X and O's.
 
 2. Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
 
-       git clone 
+       git clone https://github.com/piyush-basak/Tic-tac-toe.git
 3. Imported it in Eclipse IDE or any other Java IDE.
 4. Run the Game :D
 
