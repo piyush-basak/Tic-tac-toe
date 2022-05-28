@@ -8,9 +8,9 @@ This was an University project, So I had to use Java **Applet** according to the
 Please ⭐️ this repo and share it with others.
 
 ### Screenshots
-TicTacToe Window | Window on Winning.
+TicTacToe Window | TicTacToe with X and O's.
 :------------------:|:-------------------
-![Calculator - screenshot](screenshots/Tic-tac-toe-screen.png) | ![Calculator - screenshot](screenshots/colored.PNG)
+![Tic-tac-toe - screenshot](screenshots/Tic-tac-toe-screen.png) | ![Tic-tac-toe - screenshot](screenshots/XandO.PNG)
 
 ### Requirements 🔧
 * Java version SE 8 or below.
